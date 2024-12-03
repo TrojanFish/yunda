@@ -14,7 +14,7 @@
  <img style='margin:0 5px' src='https://badgen.net/github/stars/wangyuan389/yunda'>
  <img style='margin:0 5px' src='https://badgen.net/github/forks/wangyuan389/yunda'>
  <img style='margin:0 5px' src='https://img.shields.io/badge/version-1.1.1-686480.svg'>
- <img style='margin:0 5px' src='https://img.shields.io/badge/code%20style-standard-7986d0.svg'>
+ <img style='margin:0 5px' src='https://img.shields.io/badge/code%20style-standard-7986d0.svg'> 
 </p>
 
 <p align="center">
